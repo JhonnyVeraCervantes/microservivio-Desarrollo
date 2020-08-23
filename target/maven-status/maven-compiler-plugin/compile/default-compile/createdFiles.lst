@@ -1,0 +1,5 @@
+edu\puce\web\entities\Post.class
+edu\puce\web\resources\PostResource.class
+edu\puce\web\HelloController.class
+edu\puce\web\repositories\PostRepository.class
+edu\puce\web\resources\WebRestApplication.class
